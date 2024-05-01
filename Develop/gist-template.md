@@ -30,5 +30,5 @@ Back-references
 Look-ahead and Look-behind
 
 ## Author
-For questions, you may contact me on GitHub: leadencat
+For questions, you may contact me on GitHub: https://github.com/leadencat 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)

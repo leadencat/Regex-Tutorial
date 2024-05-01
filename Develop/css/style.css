@@ -1,0 +1,77 @@
+#header {
+    background-color: rgb(88, 127, 236);
+    margin: 3px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+body {
+    background-color: rgb(120, 235, 154);
+}
+
+.stretch-card>.card {
+    width: 100%;
+    min-width: 100%;
+}
+
+.padding {
+    padding: 3px;
+}
+
+.card-sub {
+    cursor: move;
+    border-radius: 5px;
+    background-color: rgb(158, 53, 190);
+    margin: 7px;
+}
+
+.card-sub:hover {
+    background-color: rgb(254, 255, 192);
+    cursor: pointer;
+}
+
+.card-block {
+    padding: 1.25rem;
+    background-color: #d5a1ff !important;
+    margin-bottom: 12px;
+  }
+
+  .user-name {
+    font-size: 0.7rem;
+    margin-bottom: 5px;
+  }
+
+  #user-prof-pic {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;  
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    padding: 2.5px;
+  }
+
+  .employee-name {
+    position: relative;
+    color: var(--white);
+    top: -58px;
+  }
+
+  .employee-details {
+    position: relative;
+    top: -40px;
+  }
+
+  /* Media Queries */
+
+@media (max-width:991.98px) {
+    .padding {
+        padding: 1.5rem
+    }
+  }
+  
+  @media (max-width:767.98px) {
+    .padding {
+        padding: 1rem
+    }
+  }
